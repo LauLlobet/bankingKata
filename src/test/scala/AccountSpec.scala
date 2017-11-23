@@ -37,7 +37,10 @@ class AccountSpec extends WordSpec with Matchers {
     }
 
     "have a printStatements method" in {
-      (new Account).printStatements()
+      val c = new Account
+      c.deposit(1000)
+      val amount = c.withdrawal(100)
+      c.printStatements()
       succeed
     }
 
