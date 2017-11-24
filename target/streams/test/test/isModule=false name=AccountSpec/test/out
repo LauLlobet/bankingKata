@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAccountSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAccount[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not have the same if for 2 instances[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have a balance 0 in the beginning[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have a balance that changes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not allow balance to be changed directly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not allow a negative deposit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have a printStatements method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should remove the right ammount of money when withdrawal is called[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the amount of money removed when withdrawal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 and do nothing if there is not enough money for wihdrawal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 and do nothing if there is a negative withdrawal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should limit precision to two decimals[0m[0m
