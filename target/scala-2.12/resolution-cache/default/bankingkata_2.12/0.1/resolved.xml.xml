@@ -4,10 +4,10 @@
 		module="bankingkata_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20171123191454"
+		publication="20171124124710"
 	>
 		<description>
-		bankingKata
+		bankingkata
 		</description>
 	</info>
 	<configurations>

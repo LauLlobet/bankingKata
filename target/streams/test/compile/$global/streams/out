@@ -1,6 +1,46 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/AccountSpec.scala:68:11: constructor cannot be instantiated to expected type;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : (T1, T2)[0m
-[0m[[0m[31merror[0m] [0m[0m required: org.scalatest.compatible.Assertion[0m
-[0m[[0m[31merror[0m] [0m[0m      val (c3,_) = c.withdrawal(1000) shouldBe 0[0m
-[0m[[0m[31merror[0m] [0m[0m          ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:8:16: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c1 = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:9:16: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c2 = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:15:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:21:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:33:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:40:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:43:10: value printStatements is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      c3.printStatements()[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:48:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:53:10: value balance is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      c3.balance + 100 shouldBe b1[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:57:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:65:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:70:10: value balance is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      c3.balance shouldBe 10[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:74:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:78:10: value balance is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      c2.balance shouldBe 0[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lau/Dropbox/desktop2/gits/bankingKata/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala:82:15: not found: value Account[0m
+[0m[[0m[31merror[0m] [0m[0m      val c = Account()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m15 errors found[0m

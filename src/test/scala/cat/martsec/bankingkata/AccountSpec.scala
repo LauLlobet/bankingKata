@@ -1,9 +1,9 @@
+package cat.martsec.bankingkata
+
 import org.scalatest._
 
-
 class AccountSpec extends WordSpec with Matchers {
-
-  "Account" should {
+  "cat.martsec.bankingkata.Account" should {
     "not have the same if for 2 instances" in {
       val c1 = Account()
       val c2 = Account()
