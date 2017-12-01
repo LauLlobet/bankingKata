@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ca2a87-865f-45bb-9ab0-22d220a7a7a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/solution/AccountSolved.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/solution/Statement.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/cat/martsec/bankingkata/solution/AccountSolvedSpec.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15c641e1bc23d3573693$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15c641e1bc23d3573693.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15c641e1bc23d3573693.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/Account.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/scala/AccountSpec.scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/Account.scala" afterPath="$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/Account.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala" afterPath="$PROJECT_DIR$/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala" />
-    </list>
+    <list default="true" id="87ca2a87-865f-45bb-9ab0-22d220a7a7a0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -42,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Account.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/Account.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="1" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="-83">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -54,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AccountSpec.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AccountSpec.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -454,21 +441,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/Account.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="1" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/cat/martsec/bankingkata/AccountSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cat/martsec/bankingkata/Account.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
