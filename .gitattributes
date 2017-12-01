@@ -1,6 +1,6 @@
 *.xml linguist-vendored
 *.xslt linguist-vendored
 *.css linguist-vendored
-project/ linguist-vendored
-target/ linguist-vendored
-idea/  linguist-vendored
+project/* linguist-vendored
+target/* linguist-vendored
+idea/*  linguist-vendored
